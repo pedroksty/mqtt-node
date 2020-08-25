@@ -24,7 +24,7 @@
 
 ## 💻 Sobre o projeto
 
-Maneira fácil e rápida para criar um servidor MQTT local, publishers, e subscribers
+Maneira fácil e rápida para criar um servidor MQTT local, publishers, e subscribers para seu projetos de internet das coisas 📱
 
 ## 🛠 Tecnologias
 
