@@ -59,7 +59,7 @@ $ yarn
 
 # Abra o primeiro terminal aonde o servidor executara
 $ yarn dev:broker
-# Um log como ira aparecer: Servidor rodando em mqtt://myIp:1883
+# Um log como esse ira aparecer: Servidor rodando em mqtt://myIp:1883
 
 # Abra o segundo terminal aonde o publisher executara
 $ yarn dev:publisher
