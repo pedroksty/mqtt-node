@@ -1,6 +1,7 @@
 import mqtt from 'mqtt'
+import { myIp } from '../server'
 
-const client = mqtt.connect('mqtt://192.168.1.5')
+const client = mqtt.connect(`mqtt://${myIp}`)
 
 client.on('connect', () => {
   client.subscribe('URA/robo1/acao')
